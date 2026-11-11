@@ -1,5 +1,4 @@
 # video-anomaly-detection
-# Video Anomaly Detection
 
 This is a Video anomaly detection project using pretrained ResNet18 features and a ConvLSTM predictor. The model learns to predict future feature representations and uses prediction errors to identify any unusual events in video sequences.
 
