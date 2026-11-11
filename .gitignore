@@ -1,0 +1,55 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Datasets
+ucsd/
+avenue/
+UCSDped2/
+Avenue_Dataset/
+UCSD_Anomaly_Dataset/
+datasets/
+data/
+
+# Downloaded archives
+*.tar
+*.tar.gz
+*.zip
+
+# Experiment results
+results/
+figures/
+outputs/
+logs/
+checkpoints/
+runs/
+
+# Model files
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# Cache and temporary files
+.cache/
+*.tmp
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
